@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+
+.navbar-inverse {
+  background-color: #337ab7!important;
+  border-color: #080808;
+}
+li.link-active[_ngcontent-c1] a[_ngcontent-c1], li.link-active[_ngcontent-c1] a[_ngcontent-c1]:hover, li.link-active[_ngcontent-c1] a[_ngcontent-c1]:focus {
+  background-color: #929eaa!important;
+  color: white;
+}
