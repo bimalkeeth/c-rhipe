@@ -1,0 +1,9 @@
+D:\CodeTest\rhipecodetests\rhipecode.common\bin\Debug\netcoreapp2.1\rhipecode.common.deps.json
+D:\CodeTest\rhipecodetests\rhipecode.common\bin\Debug\netcoreapp2.1\rhipecode.common.dll
+D:\CodeTest\rhipecodetests\rhipecode.common\bin\Debug\netcoreapp2.1\rhipecode.common.pdb
+D:\CodeTest\rhipecodetests\rhipecode.common\obj\Debug\netcoreapp2.1\rhipecode.common.csprojAssemblyReference.cache
+D:\CodeTest\rhipecodetests\rhipecode.common\obj\Debug\netcoreapp2.1\rhipecode.common.csproj.CoreCompileInputs.cache
+D:\CodeTest\rhipecodetests\rhipecode.common\obj\Debug\netcoreapp2.1\rhipecode.common.AssemblyInfoInputs.cache
+D:\CodeTest\rhipecodetests\rhipecode.common\obj\Debug\netcoreapp2.1\rhipecode.common.AssemblyInfo.cs
+D:\CodeTest\rhipecodetests\rhipecode.common\obj\Debug\netcoreapp2.1\rhipecode.common.dll
+D:\CodeTest\rhipecodetests\rhipecode.common\obj\Debug\netcoreapp2.1\rhipecode.common.pdb
