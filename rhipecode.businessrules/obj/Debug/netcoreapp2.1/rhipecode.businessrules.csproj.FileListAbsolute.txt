@@ -1,0 +1,14 @@
+D:\CodeTest\rhipecodetests\rhipecode.businessrules\bin\Debug\netcoreapp2.1\rhipecode.businessrules.deps.json
+D:\CodeTest\rhipecodetests\rhipecode.businessrules\bin\Debug\netcoreapp2.1\rhipecode.businessrules.dll
+D:\CodeTest\rhipecodetests\rhipecode.businessrules\bin\Debug\netcoreapp2.1\rhipecode.businessrules.pdb
+D:\CodeTest\rhipecodetests\rhipecode.businessrules\bin\Debug\netcoreapp2.1\rhipecode.common.dll
+D:\CodeTest\rhipecodetests\rhipecode.businessrules\bin\Debug\netcoreapp2.1\rhipecode.common.pdb
+D:\CodeTest\rhipecodetests\rhipecode.businessrules\obj\Debug\netcoreapp2.1\rhipecode.businessrules.csprojAssemblyReference.cache
+D:\CodeTest\rhipecodetests\rhipecode.businessrules\obj\Debug\netcoreapp2.1\rhipecode.businessrules.Resource.ValidationMessages.resources
+D:\CodeTest\rhipecodetests\rhipecode.businessrules\obj\Debug\netcoreapp2.1\rhipecode.businessrules.csproj.GenerateResource.cache
+D:\CodeTest\rhipecodetests\rhipecode.businessrules\obj\Debug\netcoreapp2.1\rhipecode.businessrules.csproj.CoreCompileInputs.cache
+D:\CodeTest\rhipecodetests\rhipecode.businessrules\obj\Debug\netcoreapp2.1\rhipecode.businessrules.AssemblyInfoInputs.cache
+D:\CodeTest\rhipecodetests\rhipecode.businessrules\obj\Debug\netcoreapp2.1\rhipecode.businessrules.AssemblyInfo.cs
+D:\CodeTest\rhipecodetests\rhipecode.businessrules\obj\Debug\netcoreapp2.1\rhipecode.businessrules.csproj.CopyComplete
+D:\CodeTest\rhipecodetests\rhipecode.businessrules\obj\Debug\netcoreapp2.1\rhipecode.businessrules.dll
+D:\CodeTest\rhipecodetests\rhipecode.businessrules\obj\Debug\netcoreapp2.1\rhipecode.businessrules.pdb
